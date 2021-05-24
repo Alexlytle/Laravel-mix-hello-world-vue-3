@@ -8,3 +8,4 @@
 
 ## Build Production
 `npx mix --production`
+`Uncomment the production code in the webpack.mix.js file`
