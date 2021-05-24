@@ -1,4 +1,4 @@
-# Laravel Mix hello world
+# Laravel Mix Vue 3 Hello World
 `This is Laravel Mix Vue 3 app to drop into wordpress or shopify apps`
 ## Setup
 `npm install`
