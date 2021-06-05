@@ -3,9 +3,8 @@ const path = require("path");
 
 mix.js('src/app.js', 'dist/js')
 	.vue()
-	.postCss('src/assets/css/app.css', 'css', [
-    //
-  ])
+// 	.postCss('src/assets/css/app.css', 'css', [])
+	.sass('src/assets/css/app.scss', 'css', [])
 	.setPublicPath('dist');
 
 // Copy index file
